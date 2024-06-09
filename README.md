@@ -22,3 +22,7 @@ This project is a simple implementation of the classic Tic-Tac-Toe game using HT
 2. Two players take turns clicking on empty spaces to mark their symbol (X or O).
 3. The game ends when one player achieves a row, column, or diagonal of their symbol, or when the board is filled with no winner.
 4. Click the "Reset" button to start a new game.
+
+## Future Enhancements
+1. Task Categories: Implement the ability for users to categorize tasks into different categories for better organization.
+2. User Accounts: Incorporate user authentication and accounts to enable personalized task lists and user-specific settings.
